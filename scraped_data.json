@@ -1,0 +1,82 @@
+[
+    {
+        "Dataset Title":"Electric Vehicle Population Data\n\n \u00a0\u00a0 recent views",
+        "Description":"State of Washington \u2014\nThis dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department..."
+    },
+    {
+        "Dataset Title":"Crime Data from 2020 to Present\n\n \u00a0\u00a0 recent views",
+        "Description":"City of Los Angeles \u2014\nStarting on March 7th, 2024, the Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. This new system is..."
+    },
+    {
+        "Dataset Title":"Fruit and Vegetable Prices\n\n \u00a0\u00a0 recent views",
+        "Description":"Department of Agriculture \u2014\nHow much do fruits and vegetables cost? ERS estimated average prices for 153 commonly consumed fresh and processed fruits and vegetables."
+    },
+    {
+        "Dataset Title":"Air Quality\n\n \u00a0\u00a0 recent views",
+        "Description":"City of New York \u2014\nDataset contains information on New York City air quality surveillance data. Air pollution is one of the most important environmental threats to urban populations..."
+    },
+    {
+        "Dataset Title":"National Obesity By State\n\n \u00a0\u00a0 recent views",
+        "Description":"Lake County, Illinois \u2014\nNational Obesity Percentages by State. Explanation of Field Attributes:Obesity - The percent of the state population that is considered obese from the 2015 CDC BRFSS..."
+    },
+    {
+        "Dataset Title":"FDIC Failed Bank List\n\n \u00a0\u00a0 recent views",
+        "Description":"Federal Deposit Insurance Corporation \u2014\nThe FDIC is often appointed as receiver for failed banks. This list includes banks which have failed since October 1, 2000."
+    },
+    {
+        "Dataset Title":"Death rates for suicide, by sex, race, Hispanic origin, and age: United States\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Department of Health & Human Services \u2014\nData on death rates for suicide, by selected population characteristics. Please refer to the PDF or Excel version of this table in the HUS 2019 Data Finder..."
+    },
+    {
+        "Dataset Title":"Supply Chain Greenhouse Gas Emission Factors v1.3 by NAICS-6\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Environmental Protection Agency \u2014\nThe datasets comprise greenhouse gas (GHG) emission factors (Factors) for 1,016 U.S. commodities as defined by the 2017 version of the North American Industry..."
+    },
+    {
+        "Dataset Title":"Dynamic Small Business Search (DSBS)\n\n \u00a0\u00a0 recent views",
+        "Description":"Small Business Administration \u2014\nThe Small Business Administration maintains the Dynamic Small Business Search (DSBS) database. As a small business registers in the System for Award Management, there..."
+    },
+    {
+        "Dataset Title":"Real Estate Sales 2001-2022 GL\n\n \u00a0\u00a0 recent views",
+        "Description":"State of Connecticut \u2014\nThe Office of Policy and Management maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30..."
+    },
+    {
+        "Dataset Title":"Alzheimer's Disease and Healthy Aging Data\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Department of Health & Human Services \u2014\n2015-2022. This data set contains data from BRFSS."
+    },
+    {
+        "Dataset Title":"Motor Vehicle Collisions - Crashes\n\n \u00a0\u00a0 recent views",
+        "Description":"City of New York \u2014\nThe Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain..."
+    },
+    {
+        "Dataset Title":"National Student Loan Data System\n\n \u00a0\u00a0 recent views",
+        "Description":"Department of Education \u2014\nThe National Student Loan Data System (NSLDS) is the national database of information about loans and grants awarded to students under Title IV of the Higher..."
+    },
+    {
+        "Dataset Title":"Walkability Index\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Environmental Protection Agency \u2014\nThe Walkability Index dataset characterizes every Census 2019 block group in the U.S. based on its relative walkability. Walkability depends upon characteristics of..."
+    },
+    {
+        "Dataset Title":"U.S. Chronic Disease Indicators (CDI), 2023 Release\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Department of Health & Human Services \u2014\nThis dataset is based on indicators described in MMWR \"Indicators for Chronic Disease Surveillance \u2014 United States, 2013\"..."
+    },
+    {
+        "Dataset Title":"Adult Depression (LGHC Indicator)\n\n \u00a0\u00a0 recent views",
+        "Description":"State of California \u2014\nThis is a source dataset for a Let's Get Healthy California indicator at \"https:\/\/letsgethealthy.ca.gov\/.\" This table displays the proportion of adults who were ever..."
+    },
+    {
+        "Dataset Title":"Border Crossing Entry Data\n\n \u00a0\u00a0 recent views",
+        "Description":"Department of Transportation \u2014\nThe Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at..."
+    },
+    {
+        "Dataset Title":"Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System\n\n \u00a0\u00a0 recent views",
+        "Description":"U.S. Department of Health & Human Services \u2014\nThis dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data,..."
+    },
+    {
+        "Dataset Title":"Warehouse and Retail Sales\n\n \u00a0\u00a0 recent views",
+        "Description":"Montgomery County of Maryland \u2014\nThis dataset contains a list of sales and movement data by item and department appended monthly. Update Frequency : Monthly"
+    },
+    {
+        "Dataset Title":"Food Price Outlook\n\n \u00a0\u00a0 recent views",
+        "Description":"Department of Agriculture \u2014\nThe Consumer Price Index (CPI) for food is a component of the all-items CPI. The CPI measures the average change over time in the prices paid by urban consumers for a..."
+    }
+]
