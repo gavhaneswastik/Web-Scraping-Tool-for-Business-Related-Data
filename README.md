@@ -18,6 +18,7 @@ Implement scraping delay and user-agent rotation to avoid detection and bans.
 Storage:
 SQLite or MongoDB: For structured data storage.
 CSV/JSON: For exporting cleaned data.
+
 2. Core Features and Implementation
 A. Data Collection
 Scraping Logic:
@@ -37,6 +38,7 @@ Ethical Considerations:
 
 Scrape only publicly available data.
 Avoid excessive request rates to comply with website terms of service.
+
 B. Data Processing and Cleaning
 Handle Missing Values:
 
@@ -52,6 +54,7 @@ Prepare for AI/ML:
 
 Export the cleaned data as a CSV or JSON file.
 Ensure fields are encoded in a machine-readable format.
+
 C. Scalability and Efficiency
 Asynchronous Requests:
 
@@ -62,12 +65,15 @@ Batch Processing:
 Process data in batches to minimize memory usage.
 Rate Limiting:
 
+
 Add delays between requests to avoid blocking (use time.sleep() or Scrapy's DOWNLOAD_DELAY).
 3. Deliverables
+
 A. GitHub Repository
 The repository will include:
 Scraper Code: Python scripts for data scraping, cleaning, and exporting.
 Environment File: requirements.txt with all dependencies.
 Sample Dataset: Anonymized and cleaned sample dataset.
+
 B. Sample Dataset
 Provide a cleaned and anonymized CSV or JSON file with ~100 records (e.g., names replaced with placeholders).
